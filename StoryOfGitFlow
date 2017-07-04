@@ -1,8 +1,8 @@
-This is the story about Taylor trying to test GitFlow.  She loves programming and is used to SVN already.  
+This is the story about Tupac trying to test GitFlow.  She loves programming and is used to SVN already.  
 
-Along with Taylor, her bff Katy is completely against the implementation fo Git.  She is comfortable in Sourcesafe and does not see any incentive to move to Git.
+Along with Tupac, her bff Katy is completely against the implementation fo Git.  She is comfortable in Sourcesafe and does not see any incentive to move to Git.
 
-Taylor loves to propose new ideas for programming.  In this code snippet, she will show how to catch exceptions (in Python)
+Tupac loves to propose new ideas for programming.  In this code snippet, she will show how to catch exceptions (in Python)
 
 String TryToCaptureResource(void)
 {
